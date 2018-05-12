@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1635
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Hopkins_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36335#The-Secret-of-Lonesome-Cove
 gutenberg_issued: '2011-06-05'
 gutenberg_type: Text
 identifiers:
